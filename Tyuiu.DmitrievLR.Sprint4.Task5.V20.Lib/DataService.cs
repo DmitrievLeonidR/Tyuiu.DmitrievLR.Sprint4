@@ -12,7 +12,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task5.V20.Lib
                 for (int j = 0; j < 5; j++)
                 {
                     if (matrix[i, j] > 0)
-                    {
+                    { 
                         sum += matrix[i, j];
                     }
                 }

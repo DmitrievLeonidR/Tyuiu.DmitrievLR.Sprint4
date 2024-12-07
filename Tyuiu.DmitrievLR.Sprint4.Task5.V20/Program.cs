@@ -43,7 +43,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task5.V20
                 }
                 Console.WriteLine();
             }
-
+             
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
