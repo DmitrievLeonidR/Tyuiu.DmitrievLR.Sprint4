@@ -14,7 +14,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task1.V16.Lib
                     res *= array[i];
                 }
             }
-
+             
             return res;
         }
     }

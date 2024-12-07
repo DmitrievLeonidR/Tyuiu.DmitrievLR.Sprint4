@@ -38,7 +38,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task1.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
 
             var result = ds.Calculate(array);
             Console.WriteLine(result);
