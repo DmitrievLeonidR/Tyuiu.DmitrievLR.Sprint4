@@ -13,7 +13,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task0.V26.Lib
                 {
                     sum += array[i];
                 }
-            }
+            } 
 
             return sum;
 

@@ -17,7 +17,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task0.V26
             Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
             
             Console.WriteLine("*                                                                         *");
-
+             
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
