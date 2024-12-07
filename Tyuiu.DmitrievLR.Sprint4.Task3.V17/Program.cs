@@ -38,7 +38,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task3.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-
+             
             DataService ds = new DataService();
 
             var result = ds.Calculate(mass);
