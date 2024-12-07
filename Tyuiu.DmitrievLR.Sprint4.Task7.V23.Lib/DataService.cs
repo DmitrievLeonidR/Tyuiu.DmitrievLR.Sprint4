@@ -22,7 +22,7 @@ namespace Tyuiu.DmitrievLR.Sprint4.Task7.V23.Lib
                     }
                 }
             }
-
+             
             int sum = 0;
             for (int i = 0; i < rows; i++)
             {
